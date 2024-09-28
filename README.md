@@ -2,7 +2,7 @@
 -  A Process Engineer and  Data Scientist, I'm also known for my skills in Software Testing with proficency in Manual and Automations testing .
 - 🎓 By education, I hold a degree in Chemical Engineering and currenlty doing my masters in Pharmaceutical Engineering.
 - 💻 I'm a fervent advocate for data-driven decision-making and I'm always ready to craft impactful data visualizations.
-- 👀 I’m interested in ...
+- 👀 I’m interested in Optimization Bio/Pharmaceutical process using Data science and Machine learning
 - 🌱 I’m currently learning Machine learning and Software Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdullateef.ojo@gmail.com
